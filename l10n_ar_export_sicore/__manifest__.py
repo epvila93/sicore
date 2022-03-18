@@ -24,7 +24,7 @@
     'images': [
     ],
     'depends': [
-	'base','account','l10n_ar_account'
+	'base','account'
     ],
     'data': [
 	'security/ir.model.access.csv',
